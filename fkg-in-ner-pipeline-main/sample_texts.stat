@@ -1,0 +1,152 @@
+archanas-kitchen: https://www.archanaskitchen.com/video-recipe-vada-sambar-non-fried-lentil-fritters-with-lentil-curry
+expected food entities:
+	- Onion Vada Sambar
+	- Urad Dal Vada
+	- pan fried
+	- paniyaram pan
+	- Kuzhi paniyaram pan
+	- Vada
+	- deep frying
+	- Mixed Vegetable Sambar
+	- finely chopped
+	- onions
+	- dal
+	- strainer
+	- strain
+	- water
+	- urad dal
+	- grind
+	- ginger
+	- green chillies
+	- food processor
+	- mixer grinder
+	- batter
+	- bowl
+	- coriander leaves
+	- vada batter
+	- oil
+	- pan
+	- spoon
+	- steam
+	- steaming
+	- mini onion vada
+	- vengaya sambar
+	- pressure cook
+	- toor dal
+	- whistles (duration for pressure cooker)
+	- heat
+	- mash
+	- tamarind water
+	- radish
+	- carrot
+	- sambar powder
+	- salt
+	- sambar water
+	- brisk boil
+	- adding
+	- small tadka pan
+	- medium heat
+	- mustard seeds
+	- red chillies 
+	- crackle
+	- asafoetida
+	- curry leaves
+	- platter
+COUNT: 52
+
+bharatz-kitchen: https://www.bharatzkitchen.com/recipe/hyderabadi-chicken-biryani/
+expected food entities:
+	- biryani
+	- gol gappe
+	- chicken biryani
+	- water
+	- salt
+	- vineger
+	- chicken
+	- red chili powder
+	- turmeric
+	- haldi powder
+	- ginger garlic paste
+	- coriander and mint paste
+	- lemon juice
+	- brown onions
+	- cup
+	- oil
+	- curd
+	- saffron and milk mix
+	- ghee and biryani masala mix
+	- bhaap
+	- rice
+	- basmati rice
+	- whole spice mix
+	- cinnamon sticks
+	- daal chini
+	- black peppercorns
+	- kali mirch sabut
+	- kebab chini
+	- cubeb
+	- cloves
+	- laung
+	- caraway seeds
+	- shahi jeera
+	- green cardamoms
+	- choti elaichi
+	- mint leaves
+	- green chilies 
+	- ginger
+	- garlic
+	- warm milk
+	- saffron
+	- ghee
+	- biryani masala
+COUNT: 43
+
+zayka-ka-tadka: https://www.zaykakatadka.com/recipe/moong-dal-idli-instant-idli/
+expected food entities:
+	- moong dal idli
+	- instant idli
+	- idli
+	- moong dal
+	- idli batter
+	- yellow moong dal
+	- yellow lentils
+	- fresh curd
+	- dahi
+	- carrot
+	- coriander leaves
+	- ginger-green chili paste
+	- ghee
+	- oil
+	- mustard seeds
+	- rai
+	- urad dal
+	- black gram
+	- curry leaves
+	- asafoetida
+	- hing
+	- fruit salt
+	- ENO
+	- salt
+	- wash
+	- soak
+	- water
+	- mixer jar
+	- batter
+	- idli steamer
+	- boil
+	- idli stand
+	- heat
+	- tadka pan
+	- idli moulds
+	- mix
+	- add
+	- pour
+	- cover
+	- steam
+	- knife
+	- cool
+	- grease
+	- ketchup
+	- green chutney
+	- coconut chutney
+COUNT: 46

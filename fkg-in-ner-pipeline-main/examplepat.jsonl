@@ -1,0 +1,4 @@
+{"label":"OFFICE","pattern":[{"LOWER":"branch"},{"IS_PUNCT":true},{"LOWER":"office"}]}
+{"label":"OFFICE","pattern":[{"TEXT":"work"}]}
+{"label":"TECH_THING","pattern":[{"TEXT":{"REGEX":"^[iI]nternet$"}},{"TEXT":{"REGEX":"^[oO]f$"}},{"TEXT":{"REGEX":"^[tT]hings$"}}]}
+re: Thing
